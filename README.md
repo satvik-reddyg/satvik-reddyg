@@ -68,8 +68,8 @@ I'm Satvik — a passionate software developer who enjoys building web applicati
 
 ## Get in touch
 
-- Email: contact@example.com
-- Location: Your City, Country
+- Email: satvikreddy9090.com
+- Location: Hyderabad, India
 - Available for: Full-time opportunities, Freelance, Open-source collaborations
 
 ---
@@ -87,6 +87,6 @@ I'm Satvik — a passionate software developer who enjoys building web applicati
 
 <!--
 Notes:
-- Update contact details and social links to your real accounts.
+- ![GitHub](https://github.com/satvik-reddyg/
 - The README uses dynamic cards from third-party services (github-readme-stats, activity-graph, etc.). If any card fails to load, check the service status or consider replacing with alternatives.
 -->
