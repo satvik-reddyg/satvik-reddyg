@@ -31,8 +31,8 @@ I'm Satvik — a passionate software developer who enjoys building web applicati
 ## GitHub Stats & Highlights
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=satvik-reddyg&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-reddyg&layout=compact&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=satvik-reddyg&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-reddyg&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="left">
