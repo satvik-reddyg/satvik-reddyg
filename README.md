@@ -60,7 +60,7 @@ I'm Satvik — a passionate software developer who enjoys building web applicati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satvik-reddyg)
 [![Twitter](https://img.shields.io/badge/Twitter-@satvik_reddy-blue?style=for-the-badge&logo=twitter)](https://twitter.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@satvik_reddy-purple?style=for-the-badge&logo=instagram)](https://instagram.com)
-[![Gmail](https://img.shields.io/badge/Email-contact%40example.com-red?style=for-the-badge&logo=gmail)](mailto:satvikesh9090@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-contact%40satvikesh9090@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:satvikesh9090@gmail.com)
 
 > Replace the above social links and email with your real profiles if you'd like them shown.
 
